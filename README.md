@@ -1,2 +1,2 @@
 ## Network related utilities
-Scripts & similar
+Scripts and notes about advanced networking topics
